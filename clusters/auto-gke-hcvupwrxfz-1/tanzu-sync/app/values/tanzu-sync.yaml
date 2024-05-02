@@ -1,0 +1,7 @@
+---
+git:
+  url: https://github.com/dapdelivery/tap-gitops-02-05-2024-15-09-37-193047542.git
+  ref: origin/master
+  sub_path: clusters/auto-gke-hcvupwrxfz-1/cluster-config
+tap_package_repository:
+  oci_repository: registry.tanzu.vmware.com/tanzu-application-platform/tap-packages
